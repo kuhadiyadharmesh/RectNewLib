@@ -29,6 +29,6 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
-    implementation files('libs/httpmime-4.0.1.jar')
-    implementation files('libs/apache-mime4j-0.6.jar')
+    //implementation files('libs/httpmime-4.0.1.jar')
+    //implementation files('libs/apache-mime4j-0.6.jar')
 }
